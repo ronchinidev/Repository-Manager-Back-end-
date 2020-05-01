@@ -1,6 +1,6 @@
 # Repository-Manager
 Back-end of an API to save and manager new repositories
-==========================================================================================
+=======================================================================================
 Technologies:
 - NodeJS
 
@@ -8,12 +8,12 @@ Development tools:
 - VS Code
 - express
 - User Unic ID v4 - uuidv4
-==========================================================================================
+=======================================================================================
 Description:
-This is a back-end code related an application to create new repositories and manager the
-database with list, update and delete.
+This is a back-end code related an application to create new repositories and manager
+the database with list, update and delete.
 Additionally, it can receive like reactions.
-==========================================================================================
+=======================================================================================
 Testing:
 In development was used the software Insomnia to the test of routes.
 
