@@ -29,11 +29,11 @@ POST
 	"url": "Project_url",  
 	"techs": "Technologies_used"  
 }  
-// ---  
+  
 List Repositories:  
 [http://localhost:3333/repositories]  
 GET  
-// ---  
+  
 Update repository:  
 [http://localhost:3333/repositories/uuid_generated]  
 PUT  
@@ -42,11 +42,11 @@ PUT
 	"url": "Project_url",  
 	"techs": "Technologies_used"  
 }  
-// ---  
+  
 Delete repository:  
 [http://localhost:3333/repositories/uuid_generated]  
 DELETE  
-// ---  
+  
 Like reaction to a repository:  
 [http://localhost:3333/repositories/uuid_generated/like]  
 POST  
